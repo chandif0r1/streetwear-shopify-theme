@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_text": "#3a3a3a",
@@ -25,12 +34,12 @@
     "share_facebook": true,
     "share_twitter": true,
     "share_pinterest": true,
-    "social_twitter_link": "https://www.twitter.com",
-    "social_facebook_link": "https://www.facebook.com",
-    "social_pinterest_link": "https://www.pinterest.com",
-    "social_instagram_link": "https://www.instagram.com",
-    "social_youtube_link": "https://www.youtube.com",
-    "social_vimeo_link": "https://www.vimeo.com",
+    "social_twitter_link": "https:\/\/www.twitter.com",
+    "social_facebook_link": "https:\/\/www.facebook.com",
+    "social_pinterest_link": "https:\/\/www.pinterest.com",
+    "social_instagram_link": "https:\/\/www.instagram.com",
+    "social_youtube_link": "https:\/\/www.youtube.com",
+    "social_vimeo_link": "https:\/\/www.vimeo.com",
     "favicon": "",
     "enable_ajax": true,
     "checkout_header_image": "",
@@ -51,7 +60,6 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "",
           "logo_max_width": 100,
           "main_linklist": "main-menu",
           "message": false,
@@ -68,28 +76,28 @@
           "jumbo-0": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
+              "bottom_img": "shopify:\/\/shop_images\/Screenshot_2024-08-17_at_8.30.44_pm_1.png",
               "bottom_img_destination": ""
             }
           },
           "jumbo-1": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
+              "bottom_img": "shopify:\/\/shop_images\/Screenshot_2024-08-17_at_8.30.44_pm_1.png",
               "bottom_img_destination": ""
             }
           },
           "jumbo-2": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
+              "bottom_img": "shopify:\/\/shop_images\/Screenshot_2024-08-17_at_8.30.44_pm_1.png",
               "bottom_img_destination": ""
             }
           },
           "jumbo-3": {
             "type": "image",
             "settings": {
-              "bottom_img": "",
+              "bottom_img": "shopify:\/\/shop_images\/Screenshot_2024-08-17_at_8.30.44_pm_1.png",
               "bottom_img_destination": ""
             }
           }
@@ -101,7 +109,7 @@
           "jumbo-3"
         ],
         "settings": {
-          "bg_image": "",
+          "bg_image": "shopify:\/\/shop_images\/Screenshot_2024-08-17_at_8.30.44_pm_1.png",
           "jumbo_title": "StreetWear",
           "jumbo_subtitle": "New Collection"
         }
@@ -109,12 +117,12 @@
       "two-collections": {
         "type": "two-collections",
         "settings": {
-          "collection1": "summer-sale",
+          "collection1": "s1-collection",
           "left_title_color": "#3a3a3a",
-          "left_c_color": "rgba(255, 255, 000, 0.5)",
-          "collection2": "trending",
+          "left_c_color": "#cccccc",
+          "collection2": "s2-collection",
           "right_title_color": "#ffffff",
-          "right_c_color": "#ccced3"
+          "right_c_color": "#cccccc"
         }
       },
       "collection": {
@@ -268,7 +276,7 @@
           "collection": "featured",
           "max_products": "8",
           "product_info_color": "#000000",
-          "product_hover_color": "rgba(100, 100, 100, 0.7)"
+          "product_hover_color": "#646464"
         }
       }
     },
@@ -288,12 +296,12 @@
       "subtitle_color": "#ffff00",
       "color_text": "#1b1b1b",
       "color_body_text": "#1b1b1b",
-      "social_twitter_link": "https://www.twitter.com",
-      "social_facebook_link": "https://www.facebook.com",
-      "social_pinterest_link": "https://www.pinterest.com",
-      "social_instagram_link": "https://www.instagram.com",
-      "social_youtube_link": "https://www.youtube.com",
-      "social_vimeo_link": "https://www.vimeo.com",
+      "social_twitter_link": "https:\/\/www.twitter.com",
+      "social_facebook_link": "https:\/\/www.facebook.com",
+      "social_pinterest_link": "https:\/\/www.pinterest.com",
+      "social_instagram_link": "https:\/\/www.instagram.com",
+      "social_youtube_link": "https:\/\/www.youtube.com",
+      "social_vimeo_link": "https:\/\/www.vimeo.com",
       "sections": {
         "header": {
           "type": "header",
@@ -548,12 +556,12 @@
       "share_facebook": true,
       "share_twitter": true,
       "share_pinterest": true,
-      "social_twitter_link": "https://www.twitter.com",
-      "social_facebook_link": "https://www.facebook.com",
-      "social_pinterest_link": "https://www.pinterest.com",
-      "social_instagram_link": "https://www.instagram.com",
-      "social_youtube_link": "https://www.youtube.com",
-      "social_vimeo_link": "https://www.vimeo.com",
+      "social_twitter_link": "https:\/\/www.twitter.com",
+      "social_facebook_link": "https:\/\/www.facebook.com",
+      "social_pinterest_link": "https:\/\/www.pinterest.com",
+      "social_instagram_link": "https:\/\/www.instagram.com",
+      "social_youtube_link": "https:\/\/www.youtube.com",
+      "social_vimeo_link": "https:\/\/www.vimeo.com",
       "favicon": "",
       "checkout_header_image": "",
       "checkout_logo_image": "",
